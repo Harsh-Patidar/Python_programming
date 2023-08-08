@@ -1,0 +1,1 @@
+(col==0 or col == 4 )and row!=0)
